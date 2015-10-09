@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MarqueeTextViewDemo</string>
+    <string name="hello_world">I am long long longlong long longlong long longlong long longlong long longlong long longlong long long text view </string>
+    <string name="action_settings">Settings</string>
+
+</resources>

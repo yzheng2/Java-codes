@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testestsesssttt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="single">Please Enter Keyword</string>
+    <string name="multi">Please Enter Keywords</string>
+
+</resources>
